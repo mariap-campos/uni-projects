@@ -1,1 +1,1 @@
-🚗 Simple C# program to calculate the IPVA of a car based on its price, month of purchase, category and others. (Uni project)
+🎫 Program that calculates traffic fine prices according to how much, in percentage, the speed limit was exceeded. (Uni projetc)
